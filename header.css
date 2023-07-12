@@ -20,6 +20,11 @@ header a {
   position: relative;
 }
 
+header a:link {
+  color: #2da2ec;
+}
+
+
 header a:visited {
   color: inherit;
 }
