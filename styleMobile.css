@@ -97,6 +97,16 @@
     width: 40%;
   }
 
+  .worksLeft,
+  .worksRight {
+    margin-bottom: 20px;
+  }
+
+  .leftText,
+  .rightText {
+    font-size: 0.8rem;
+  }
+
   .btnContainer {
     margin-top: 40px;
   }
@@ -118,6 +128,16 @@
   .nav {
     font-size: 0.8rem;
   }
+
+    .navbarNumber {
+    display: none;
+  }
+
+  .navbarA {
+    padding: 15px;
+    font-weight: 600;
+  }
+
 
   .about {
     width: 100%;
