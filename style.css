@@ -376,11 +376,11 @@ body {
 
 @media only screen and (max-height: 840px) {
   .rightText {
-    font-size: 0.8em;
+    font-size: 0.8rem;
   }
 
   .leftText {
-    font-size: 0.8em;
+    font-size: 0.8rem;
   }
 }
 
